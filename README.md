@@ -22,12 +22,16 @@ SECRET_KEY=<your-flask-secret-key>
 
 
 
-# Create a virtual environment:
+# Createand activate a virtual environment:
 python3 -m venv venv
 
-source venv/bin/activate  # For Windows: venv\Scripts\activate
+source venv/bin/activate
 
+For Windows: venv\Scripts\activate
 
+# Run Flask app
+
+python app.py
 
 # Install the dependencies:
 
