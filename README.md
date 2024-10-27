@@ -29,10 +29,12 @@ source venv/bin/activate
 
 For Windows: venv\Scripts\activate
 
-# Run Flask app
-
-python app.py
 
 # Install the dependencies:
 
 pip install -r requirements.txt
+
+
+# Run Flask app
+
+python app.py
