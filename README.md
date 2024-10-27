@@ -1,7 +1,7 @@
 # Installation
-git clone https://github.com/MansiAlhat/your-repository-name.git
+git clone https://github.com/Samir433/JSON_Bot.git
 
-cd your-repository-name
+cd JSON_Bot/
 
 
 # Create .env Environment Variables
